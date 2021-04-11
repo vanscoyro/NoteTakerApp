@@ -1,6 +1,6 @@
 
-# Note Generator
-## by Robert VanScoy
+# Note Taker App
+### Robert VanScoy
 _______________________________________________________________
 ### Description 
 * This node.js program takes user input and allows the user to generate notes and view/delete them
