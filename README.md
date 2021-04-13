@@ -4,6 +4,7 @@ _______________________________________________________________
 
 <img src="Assets/demo_gif.gif" width="900">
 _______________________________________________________________
+
 ### Description 
 * This node.js program takes user input and allows the user to generate notes and view/delete them
 
