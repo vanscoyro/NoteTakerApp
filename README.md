@@ -2,7 +2,7 @@
 ### Robert VanScoy
 _______________________________________________________________
 
-<img src="Assets/demo_gif.gif" width="900">
+<img src="Assets/demo_gif.gif" width="900" align="center">
 _______________________________________________________________
 
 ### Description 
