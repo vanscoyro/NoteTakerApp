@@ -1,4 +1,4 @@
-![NoteTakerGif]<img src="Assets/demo_gif.gif" width="300" height="300">
+<img src="Assets/demo_gif.gif" width="900">
 
 # Note Taker App
 ### Robert VanScoy
