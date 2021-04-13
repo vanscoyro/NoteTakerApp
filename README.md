@@ -1,8 +1,9 @@
 # Note Taker App
 ### Robert VanScoy
 _______________________________________________________________
-
-<img src="Assets/demo_gif.gif" width="900" align="center">
+<p align="center">
+<img src="Assets/demo_gif.gif" width="900">
+<p>
 _______________________________________________________________
 
 ### Description 
