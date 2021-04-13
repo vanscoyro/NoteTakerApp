@@ -1,12 +1,12 @@
-<img src="Assets/demo_gif.gif" width="900">
-
 # Note Taker App
 ### Robert VanScoy
+_______________________________________________________________
+
+<img src="Assets/demo_gif.gif" width="900">
 _______________________________________________________________
 ### Description 
 * This node.js program takes user input and allows the user to generate notes and view/delete them
 
-![NoteTakerPic](Assets/noteTaker1.PNG?raw=true "NoteTaker Pic")
   
 ### License : 
 <img src='https://img.shields.io/badge/license-MIT-blue' alt="license-badge">
